@@ -60,6 +60,6 @@ int main(){
     cout<<"\nAfter sorting : "<<endl;
     mergesort(array,1,n);
     printArray(array,n);
-   
+ 
     
 }
