@@ -1,6 +1,6 @@
 # ArrayProblems
-Language : c++
-Level 1 : 
+Language : c++<br />
+Level 1 : <br />
 
 <b>1. Peak Element</b>
 <br />
