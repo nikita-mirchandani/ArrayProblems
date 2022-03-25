@@ -17,9 +17,7 @@ int main(){
            min = array[i];
        }
     }
-    // for(int i=1;i<=n;i++){
-    //     cout<<array[i]<<" ";
-    // }
+
     cout<<"Maximum element in array is "<<max<<endl;
     cout<<"Minimum element in array is "<<min<<endl;
 
